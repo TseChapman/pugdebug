@@ -3,11 +3,9 @@
 """
     pugdebug - a standalone PHP debugger
     =========================
-    copyright: (c) 2015 Robert Basic
+    copyright: (c) 2015 Robert Basic and fork's contributors
     license: GNU GPL v3, see LICENSE for more details
 """
-
-__author__ = "robertbasic"
 
 from PyQt5.QtGui import QPainter, QColor, QPixmap
 from PyQt5.QtWidgets import QLabel, QWidget, QHBoxLayout

@@ -3,11 +3,9 @@
 """
     pugdebug - a standalone PHP debugger
     =========================
-    copyright: (c) 2015 Robert Basic
+    copyright: (c) 2015 Robert Basic and fork's contributors
     license: GNU GPL v3, see LICENSE for more details
 """
-
-__author__ = "robertbasic"
 
 from collections import deque
 from PyQt5.QtCore import QObject, pyqtSignal

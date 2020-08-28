@@ -5,11 +5,9 @@
 """
     pugdebug - a standalone PHP debugger
     =========================
-    copyright: (c) 2015 Robert Basic
+    copyright: (c) 2015 Robert Basic and fork's contributors
     license: GNU GPL v3, see LICENSE for more details
 """
-
-__author__ = "robertbasic"
 
 # Fix for Gtk-CRITICAL issues on Ubuntu
 # Turn off that stupid overlay scrollbars
